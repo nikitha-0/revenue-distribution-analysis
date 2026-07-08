@@ -6,7 +6,7 @@ An interactive data visualization project tracking revenue distribution across k
 This project demonstrates an end-to-end data pipeline modeling a production corporate workflow. Raw transactional e-commerce data was structured, queried, and verified using **DB Browser for SQLite**, and then connected directly to **Microsoft Excel** to build a dynamic, executive-ready sales performance dashboard.
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](dashboard_preview.png)
+![Sales Dashboard](dashboard.png)
 
 ## ⚙️ Data Architecture & Pipeline Workflow
 1. **Database Staging:** Created a localized relational database schema using **SQLite** to securely store massive transactional datasets within the `fact_orders` structure.
